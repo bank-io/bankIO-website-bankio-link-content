@@ -13,7 +13,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `openbanking-content`,
+        name: `bankio-link-content`,
         path: `${__dirname}/content`,
       },
     },
